@@ -17,6 +17,7 @@ public class PlantPlacesController {
 	
 //	Yeah, jsut sa comment...
 	
+	
 	@RequestMapping("/")
 	public String index() {
 		return "start Index blank";
