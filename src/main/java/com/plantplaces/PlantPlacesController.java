@@ -15,7 +15,6 @@ public class PlantPlacesController {
 		return "start";
 	}
 	
-	
 	@RequestMapping("/")
 	public String index() {
 		return "start Index blank";
