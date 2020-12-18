@@ -16,8 +16,6 @@ public class PlantPlacesController {
 	}
 	
 //	Yeah, jsut sa comment...
-
-	
 	
 	
 	@RequestMapping("/")
