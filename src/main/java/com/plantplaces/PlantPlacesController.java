@@ -15,9 +15,10 @@ public class PlantPlacesController {
 		return "start";
 	}
 	
-//	Yeah, jsut sa comment...
-	
-	
+	/**
+	 * Handling the / end-point 
+	 * @return
+	 */
 	@RequestMapping("/")
 	public String index() {
 		return "start Index blank";
